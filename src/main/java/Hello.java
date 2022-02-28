@@ -10,6 +10,8 @@ public class Hello {
         System.out.println("hot-fix");
         System.out.println("master这行冲突");
 
+        System.out.println("hot-fix 这行冲突");
+
         System.out.println("master 13");
 
     }

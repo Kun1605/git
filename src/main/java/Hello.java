@@ -14,5 +14,7 @@ public class Hello {
 
         System.out.println("master 13");
 
+        System.out.println("分享到github");
+
     }
 }
